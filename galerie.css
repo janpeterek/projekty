@@ -8,13 +8,13 @@ main {
   
   div.gallery {
       margin: 5px;
-      border: 1px solid #ccc;
+      border: 1px solid rgb(0, 0, 0);
       float: left;
       width: 24%;
     }
     
     div.gallery:hover {
-      border: 1px solid #777;
+      border: 1px solid rgb(45, 161, 214);
     }
     
     div.gallery img {
